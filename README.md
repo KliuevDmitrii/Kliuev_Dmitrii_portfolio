@@ -64,3 +64,4 @@
 
 ## Контактная информация
 - Email: dimik1986@gmail.com
+- https://www.linkedin.com/in/kliuevdmitrii/
