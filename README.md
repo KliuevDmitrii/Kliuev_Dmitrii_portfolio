@@ -26,9 +26,7 @@
 
 > <a href="https://kliuev.atlassian.net/wiki/spaces/1/overview">Проект</a>
   
-> <p> логин: dimik1986@gmail.com </p>
-> <p> пароль: dimaK86@ </p>
- 
+
  <p>Выводы (итоги):<p>
 <ol>
   <li>В рамках данного проекта я познакомился с составлением тест-плана в Confluence </li>
@@ -52,8 +50,6 @@
 
 >  <a href="https://kliuev.atlassian.net/wiki/spaces/12/pages/10944537/1+2.">Проект</a>
   
-  > <p> логин: dimik1986@gmail.com </p>
-  > <p> пароль: dimaK86@ </p>
  
  <p>Выводы (итоги):<p>
 <ol>
@@ -74,8 +70,6 @@
 
 > <a [href="https://kliuev.atlassian.net/wiki/spaces/1/overview"](https://elenakutsel.atlassian.net/wiki/spaces/~63626d05f7ad721e784f9e77/pages/17301505/1)>Проект</a>
   
-> <p> логин: dimik1986@gmail.com </p>
-> <p> пароль: dimaK86@ </p>
  
  <p>Выводы (итоги):<p>
 <ol>
@@ -99,8 +93,6 @@
 
 > <a href="https://kliuev.atlassian.net/wiki/spaces/KD/pages">Проект</a>
   
-> <p> логин: dimik1986@gmail.com </p>
-> <p> пароль: dimaK86@ </p>
  
  <p>Выводы (итоги):<p>
 <ol>
