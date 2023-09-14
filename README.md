@@ -68,7 +68,7 @@
 
 <p>Был разработан тест-план, составлены чек-листы, проведены различные виды тестирования, составлен отчет о проведенном тестировании.<p>
 
-> <a [href="https://kliuev.atlassian.net/wiki/spaces/1/overview"](https://elenakutsel.atlassian.net/wiki/spaces/~63626d05f7ad721e784f9e77/pages/17301505/1)>Проект</a>
+> <a href="https://kliuev.atlassian.net/wiki/spaces/1/overview(https://elenakutsel.atlassian.net/wiki/spaces/~63626d05f7ad721e784f9e77/pages/17301505/1)">Проект</a>
   
  
  <p>Выводы (итоги):<p>
