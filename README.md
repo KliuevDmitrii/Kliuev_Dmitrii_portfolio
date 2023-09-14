@@ -48,7 +48,7 @@
 
 <p>Были составлены тест-кейсы по функциональному тестированию через API, создана Postman-коллекция.<p>
 
->  <a href="https://kliuev.atlassian.net/wiki/spaces/12/pages/10944537/1+2.">Проект</a>
+> <a href="https://kliuev.atlassian.net/wiki/spaces/12/pages/10944537/1+2.">Проект</a>
   
  
  <p>Выводы (итоги):<p>
